@@ -4,7 +4,7 @@
 <p align="center">
   [<a href=""><strong>Paper</strong></a>]
   [<a href="https://sudo-ai-3d.github.io/One2345plus_page/"><strong>Project</strong></a>]
-  [<a href=""><strong>Demo</strong>https://www.sudo.ai/3dgen</a>]
+  [<a href="https://www.sudo.ai/3dgen"><strong>Demo</strong></a>]
   [<a href="#citation"><strong>BibTeX</strong></a>]
 </p>
 
