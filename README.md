@@ -2,7 +2,7 @@
 # One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion
 
 <p align="center">
-  [<a href=""><strong>Paper</strong></a>]
+  [<a href="https://arxiv.org/pdf/2311.07885.pdf"><strong>Paper</strong></a>]
   [<a href="https://sudo-ai-3d.github.io/One2345plus_page/"><strong>Project</strong></a>]
   [<a href="https://www.sudo.ai/3dgen"><strong>Demo</strong></a>]
   [<a href="#citation"><strong>BibTeX</strong></a>]
@@ -14,8 +14,11 @@ One-2-3-45++ is capable of transforming <b>a single RGB image</b> of any object 
 
 
 ## News
+**[11/14/2023]**
+We have released paper!
+
 **[11/13/2023]**
-We have released paper and demo!
+We have released demo!
 
 ## Related Work
 [\[Zero123\]](https://github.com/cvlab-columbia/zero123)
