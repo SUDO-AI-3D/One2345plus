@@ -31,11 +31,11 @@ We have released demo!
 If you find our code helpful, please cite our paper:
 
 ```
-@misc{liu2023one2345,
-      title={One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion}, 
-      author={Minghua Liu and Ruoxi Shi and Linghao Chen and Zhuoyang Zhang and Chao Xu and Hansheng Chen and Chong Zeng and Jiayuan Gu and Hao Su},
-      year={2023},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+
+@article{liu2023one2345++,
+  title={One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion},
+  author={Minghua Liu and Ruoxi Shi and Linghao Chen and Zhuoyang Zhang and Chao Xu and Xinyue Wei and Hansheng Chen and Chong Zeng and Jiayuan Gu and Hao Su},
+  journal={arXiv preprint arXiv:2311.07885},
+  year={2023}
 }
 ```
